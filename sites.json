@@ -5599,5 +5599,11 @@
         "domains": [
             "zynga.com"
         ]
+    },
+    {
+        "name": "freecharge",
+        "url": "https://www.freecharge.in/",
+        "difficulty": "hard",
+        "email": "care@freecharge.com"
     }
 ]
